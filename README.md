@@ -70,4 +70,3 @@ python hw4.py
 ```
 
 The script will automatically detect if a GPU (CUDA) is available and utilize it for training. All plots and metrics will be saved to the current working directory upon completion.
-```
